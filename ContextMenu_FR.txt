@@ -1,0 +1,5 @@
+ContextMenu_FR = {
+	ContextMenu_P4Decoholic_Clear = "Restaurer l'affichage des meubles à la normale",
+	ContextMenu_P4Decoholic_IgnoreEnable = "Garder l'affichage des meubles",
+	ContextMenu_P4Decoholic_IgnoreDisable = "Ne pas garder l'affichage des meubles",
+}

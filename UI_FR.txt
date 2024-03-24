@@ -1,0 +1,5 @@
+UI_FR = {
+	UI_P4Decoholic_Messages_Cleared = "L'affichage des meubles a été restauré à la normale.",
+	UI_P4Decoholic_Messages_IgnoreEnabled = "L'affichage des meubles conserve les graphismes originaux.",
+	UI_P4Decoholic_Messages_IgnoreDisabled = "L'affichage des meubles ne conserve pas les graphismes originaux.",
+}
